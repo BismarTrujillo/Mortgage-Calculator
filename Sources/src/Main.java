@@ -29,7 +29,6 @@ public class Main {
         double biweeklyPayment = monthlyPayment/2;
 
         System.out.println(insurance);
-
         System.out.println("Monthly Payment: " + (monthlyPayment + insurance));
         System.out.println("Biweekly Payment: " + (biweeklyPayment + insurance/2));
 
